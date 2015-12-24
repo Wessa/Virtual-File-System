@@ -1,0 +1,6 @@
+*root
+-root/7amada.txt
+*root/secondRoot
+-root/secondRoot/tita.txt
+-root/secondRoot/kita.txt
+-root/secondRoot/sita.txt
